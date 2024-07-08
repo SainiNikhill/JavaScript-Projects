@@ -1,2 +1,2 @@
 # JavaScript-Projects
-building js Projects for   practicew
+building js Projects for   practice
